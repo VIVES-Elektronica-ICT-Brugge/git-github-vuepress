@@ -1,0 +1,32 @@
+{
+  "name": "git-github-vuepress",
+  "version": "0.0.1",
+  "description": "Introduction to Git, GitHub and static site rendering with Vuepress",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIVES-Elektronica-ICT-Brugge/git-github-vuepress.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "vuepress"
+  ],
+  "author": "Piet Cordemans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VIVES-Elektronica-ICT-Brugge/git-github-vuepress/issues"
+  },
+  "homepage": "https://github.com/VIVES-Elektronica-ICT-Brugge/git-github-vuepress#readme",
+  "dependencies": {
+    "vuepress": "^1.2.0",
+    "webpack-serve": "^3.2.0"
+  }
+}
