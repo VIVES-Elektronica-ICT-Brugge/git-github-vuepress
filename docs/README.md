@@ -31,15 +31,19 @@ Spoorwegstraat 12
 ## Programma
 
 * 08u30 Ontvangst
-* 09u00 IoT, slimme school 2.0 project
-* 09u20 Git deel 1
+* 09u00 Git deel 1
 * 10u30 Break
 * 10u45 GitHub 
 * 12u15 Break
 * 13u15 Git deel 2
 * 14u45 Break
 * 15u00 Vuepress, copyright
+* 16u00 IoT, slimme school 2.0 project
 * 16u30 Einde
+
+## Inschrijven
+
+> Inschrijven voor deze gratis studiedag op vrijdag 13/12/2019 kan via deze [link](https://docs.google.com/forms/d/e/1FAIpQLSe7-GVAN3f9eyUihuOI7crkVq5OFLHha7iksQ5rKOc0XvrENg/viewform?usp=sf_link).
 
 ## Innovet: IoT, slimme school 2.0
 
@@ -49,3 +53,11 @@ Deze studiedag wordt aangeboden in het kader van het Innovet project: *IoT, slim
 ![VTI Torhout](./img/vti-torhout.png)
 ![Innovet](./img/innovet.png)
 ![Vlaanderen](./img/vlaanderen.png)
+
+## Contact
+
+Piet Cordemans<br/>
+VIVES Campus Brugge<br/>
+Spoorwegstraat 12<br/>
+8200 Brugge<br/>
+<a href="mailto:piet.cordemans@vives.be">Stuur een e-mail</a>
