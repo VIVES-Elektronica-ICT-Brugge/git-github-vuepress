@@ -3,12 +3,13 @@
 ## Programma
 
 * 08u30 Ontvangst
-* 09u00 Git deel 1
+* 09u00 Voorstelling IoT, slimme school 2.0 project
+* 09u15 Git deel 1
 * 10u30 Break
 * 10u45 GitHub 
 * 12u15 Break
 * 13u15 Git deel 2
 * 14u45 Break
 * 15u00 Vuepress, copyright
-* 16u00 IoT, slimme school 2.0 project
+* 16u00 Demo cursus 
 * 16u30 Einde
